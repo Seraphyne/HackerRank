@@ -4,7 +4,7 @@ By Renata D.
 ## 📌 Summary:
 These are my solutions to the problems at HackerRank: 
 
-* Problem Solving (branch)
+* Problem Solving
 
 ## 📌💻 Technologies used:
 
