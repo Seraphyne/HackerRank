@@ -5,11 +5,13 @@ By Renata D.
 These are my solutions to the problems at HackerRank: 
 
 * Problem Solving
+* Warm-Up Challenges
+* Ruby
 
 ## 📌💻 Technologies used:
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=sucess)
-
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=sucess)
 
 ## 📌📇 Contact:
 <hr>
