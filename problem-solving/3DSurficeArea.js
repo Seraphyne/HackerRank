@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 function surfaceArea(A) {
   let S = 0;
   let kf = 0;
